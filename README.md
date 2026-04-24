@@ -13,6 +13,9 @@ This project focuses on the integrated analysis of mutational and clinical data 
 * Apply Machine Learning to predict clinical outcomes
 * Use SHAP for model interpretability
 
+## 📊 Data Source
+Data obtained from cBioPortal (TCGA PDAC dataset)
+
 
 ## 🧰 Tools & Technologies
 
