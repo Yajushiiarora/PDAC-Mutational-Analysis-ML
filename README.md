@@ -30,7 +30,7 @@ Data obtained from cBioPortal (TCGA PDAC dataset)
 * TP53 mutation frequency: 69.3%
 * Average patient age: ~65 years**
 * Tumor-free patients showed 100% complete response
-* Majority tumor patients showed **disease progression (~70%)
+* Majority tumor patients showed disease progression (~70%)
 * Mutation burden varied significantly across patients
 
 ## 🤖 Machine Learning Results
@@ -57,7 +57,7 @@ Data obtained from cBioPortal (TCGA PDAC dataset)
 * Apply advanced models (XGBoost, LightGBM)
 * Improve feature engineering
 * Increase dataset size
-* Perform survival analysis
+
 
 ## 📌 Conclusion
 
